@@ -1,7 +1,7 @@
 {
-  "name": "jamworlddb-backend",
+  "name": "jamworld-backend",
   "version": "1.0.0",
-  "description": "Backend for JamWorldDB",
+  "description": "Backend for JAMWORLD",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
